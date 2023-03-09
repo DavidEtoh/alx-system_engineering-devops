@@ -1,2 +1,2 @@
 #1/bin/bash
-chmod u-rmx,g-rmx,o+rmx hello
+chmod 007 hello
